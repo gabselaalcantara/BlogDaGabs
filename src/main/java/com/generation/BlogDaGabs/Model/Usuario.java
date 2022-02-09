@@ -47,6 +47,10 @@ public class Usuario {
 	
 	// Getters and Setters
 
+	public Usuario(long l, String string, String string2, String string3, String string4) {
+		// TODO Auto-generated constructor stub
+	}
+
 	public Long getId() {
 		return id;
 	}
